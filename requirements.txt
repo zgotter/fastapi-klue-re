@@ -1,0 +1,7 @@
+streamlit
+fastapi
+uvicorn
+torch==1.10.0
+transformers
+numpy
+pandas
